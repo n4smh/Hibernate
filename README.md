@@ -1,4 +1,4 @@
-# JavaBrains_Hibernate
+# Hibernate
 Repo contains Hibernate basics code created by refering to JavaBrains. <br/>
 
 Dependency: <br/>
